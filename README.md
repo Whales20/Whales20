@@ -2,7 +2,7 @@
 - 👀 I’m interested in web applications 
 - 🌱 I’m currently learning web development
 - 💞️ I’m seeking useful information in this area
-- 📫 Kindly reach out through my page
+- 📫 Kindly share useful information through my page
 
 <!---
 Whales20/Whales20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
