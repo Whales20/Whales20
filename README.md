@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Whales20
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web application and development
+- 👀 I’m interested in web applications 
+- 🌱 I’m currently learning web development
 - 💞️ I’m seeking useful information in this area
 - 📫 Kindly reach out through my page
 
